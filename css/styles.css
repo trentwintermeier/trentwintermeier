@@ -21,6 +21,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
+    text-align-last: center;
     font-family:'optima', 'optima', 'optima';
 }
 p {
@@ -30,11 +31,14 @@ p {
 }
 footer {
     border-top: 1px solid #d5d5d5;
+    text-align-last: center;
+    font-family:'optima', 'optima', 'optima';
     font-size: .8em;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
+    text-align-last: center;
     font-size: 1.5em;
 }
 
