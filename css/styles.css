@@ -1,15 +1,15 @@
 body {
-    margin: 200px auto;
-    width: 200px;
+    margin: 60px auto;
+    width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Optima';
+    font-family:'optima', 'optima', 'optima';
     padding: 0px;
     list-style: none;
-    font-weight: bold;
+    font-weight: normal;
 }
 nav ul li, footer ul li {
-    display: center;
+    text-align-last: center;
     margin-right: 20px;
 }
 a {
@@ -21,7 +21,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Optima';
+    font-family:'optima', 'optima', 'optima';
 }
 p {
     font-size: 1.5em;
