@@ -1,55 +1,21 @@
-body {
-    margin: 60px auto;
-    width: 70%;
+<head>
+<meta charset="UTF-8">
+<title>trent wintermeier</title>
+<style>
+	body {background-color: white;margin-top: 200px;margin-bottom: 200px;}
+	h1 {color:black; font-family: optima; font-size: 40px; text-align: center;margin-top:75px; }
+	img {display: block; margin-left:250px; margin-right: auto;float:left;margin-top: 75px;}
+	p {font-family: optima;margin-top: 110px; clear:right;margin-left: 550px;margin-right: 350px;line-height: 1.5;font-size: 16px;}
+	nav {text-align: center; font-family: optima; word-spacing: 75px;}
+	a:link {
+		color:black;
+	}
+	a:visited {
+		color:black;
+	}
+	.email {
+		color:black;
+		margin-left: 50px;
 }
-nav ul, footer ul {
-    font-family:'optima', 'optima', 'optima';
-    padding: 0px;
-    list-style: none;
-    font-weight: normal;
-}
-nav ul li, footer ul li {
-    text-align-last: center;
-    margin-right: 20px;
-}
-a {
-    text-decoration: none;
-    color: #999;
-}
-a:hover {
-    text-decoration: underline;
-}
-h1 {
-    font-size: 3em;
-    font-style: oblique;
-    font-weight: bold;
-    color: #000;
-    position: fixed;
-    top: 30px;
-    width: 100%;
-    min-height: 30px;
-    display: inline-block;
-    text-align: center;
-    margin: 0 auto;
-}
-p {
-    font-size: 1em;
-    line-height: 1.4em;
-    margin-left: 800px;
-    color: #333;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    text-align-last: center;
-    font-family:'optima', 'optima', 'optima';
-    font-size: .8em;
-}
-
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
-
-ul.posts li {
-    list-style: none;
-}
+</style>
+</head>
